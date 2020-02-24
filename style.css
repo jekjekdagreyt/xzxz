@@ -1,0 +1,38 @@
+body{
+	background-image:url('x.jpg');
+	background-size:cover;
+	
+}
+.nge{
+	font-size: 20px;
+	font-family:Arial;
+	color:orange;	
+}
+.meow{
+	font-size:15px;
+	font-family:Arial;
+	color:white;
+
+}
+.joke{
+	font-size:40px;
+	font-family :Arial;
+	color: white;
+}
+.btn1{
+	background-color:red;
+	color:white;
+	font-family:Arial;
+	border-radius:10%;
+}
+.anchor{
+	color:blue;
+	font-size:10px;
+	font-family:Arial;
+
+}
+.tote{
+	color:white;
+	font-size:25px;
+	font-family:arial;
+}
